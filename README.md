@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi  👋
+
+I'm a 2th year computer science student, I've built a few projects by myself and I'm looking for  a role where I can grow and lern from other experiencecd team members.
+
+
 
 <!--
 **NadavPorat/NadavPorat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
