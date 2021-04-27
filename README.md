@@ -1,7 +1,6 @@
 ### Hi  👋
 
-I'm a 2th year computer science student, I've built a few projects by myself and I'm looking for  a role where I can grow and lern from other experiencecd team members.
-
+I'm a 2t'h year computer science student, I've built a few projects by myself and I'm looking for a role where I can grow and learn from other experienced team 
 
 
 <!--
@@ -10,7 +9,7 @@ I'm a 2th year computer science student, I've built a few projects by myself and
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
