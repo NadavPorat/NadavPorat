@@ -1,8 +1,7 @@
 ### Hi  👋
 
-My name is Nadav and I a problem solver with proven leadership and teamwork skills.  
-Fast self-learner with high interpersonal capabilities and the ability to think outside of the box in order to solve complex problems, under pressure. 
-![image](https://user-images.githubusercontent.com/71311119/176470195-0c9293e7-90e0-42bd-8897-df3b43083837.png)
+I'm Nadav, and here are some of the major projects I've worked on.
+hope you will find them informative and useful.
 
 
 
